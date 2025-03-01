@@ -5,14 +5,14 @@
 Me chamo Natanael de Sousa, mas geralmente sou chamado de Natan. Tenho 17 anos e sou de São Paulo. Estou finalizando o Ensino Médio junto com o curso técnico de Informática da minha escola. Atualmente, estou estudando Front-end, Back-end, Software Desktop e aplicações para dispositivos móveis. Sempre tive um grande apreço pela tecnologia e tenho grandes objetivos com a minha carreira.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/NaytanFox0?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/NaytanFox0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/NaytanFox0?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
