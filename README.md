@@ -58,7 +58,7 @@ Me chamo Natanael de Sousa, mas geralmente sou chamado de Natan. Tenho 17 anos e
   <a href="https://instagram.com/naytanfox.0" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
   </a>
-  <a href="https://youtube.com/Naytan-Fox" target="_blank">
+  <a href="https://www.youtube.com/@Naytan-Fox" target="_blank">
     <img src="./youtube.svg" width="40"/>
   </a>
 </p>
