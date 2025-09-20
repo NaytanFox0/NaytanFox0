@@ -30,7 +30,7 @@ Me chamo Natanael de Sousa, mas geralmente sou chamado de Natan. Tenho 17 anos e
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NaytanFox0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/NaytanFox0?label=Seguidores&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github"
         />
     </a>
 </p>
