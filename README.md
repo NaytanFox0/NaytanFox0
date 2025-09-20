@@ -49,7 +49,7 @@ Me chamo Natanael de Sousa, mas geralmente sou chamado de Natan. Tenho 17 anos e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
-📧 Contatos
+📧 Contatos e redes sociais
 ---
 <p>
   <a href="mailto:natannakenoael@gmail.com">
